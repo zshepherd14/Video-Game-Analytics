@@ -1,0 +1,61 @@
+PerkID,PerkName,Val1Key,Val2Key,Val3Key
+8005,Press the Attack,Total Damage Dealt,Bonus Damage,Expose Damage
+8008,Lethal Tempo,Total Active Time ,-,-
+8009,Presence of Mind,Total Resource Refunded ,-,-
+8014,Coup De Grace,Total Bonus Damage,-,-
+8017,Cut Down,Total Bonus Damage,-,-
+8021,Fleet Footwork,Total Healing ,-,-
+8105,Relentless Hunter,Total Stacks,-,-
+8112,Electrocute,Total Damage Dealt,-,-
+8120,Ghost Poro,Poro's Spawned ,-,-
+8124,Predator,Total Damage Dealt,-,-
+8126,Cheap Shot,Total Damage Dealt,-,-
+8128,Dark Harvest,Total Damage Dealt,-,-
+8134,Ingenoius Hunter,Total Stacks,-,-
+8135,Ravenous Hunter,Total Stacks,-,-
+8136,Zombie Ward,Wards Corrupted ,-,-
+8138,Eyeball Collection,Total Bonus Adaptive,-,-
+8139,Taste of Blood,Total Healing ,-,-
+8143,Sudden Impact,Bonus Damage ,-,-
+8210,Transcendance,Total Bonus Adaptive,-,-
+8214,Summon Aery,Total Damage Dealt,Total Shielded,-
+8224,Nullifying Orb,Total shield granted,-,-
+8226,Manaflow Band,Total Resource Refunded ,-,-
+8229,Comet,Total Damage Dealt,-,-
+8230,Phase Rush,Total activations,-,-
+8232,Water Walking,Total Bonus Adaptive,-,-
+8233,Absolute Focus,Total Time Active ,-,-
+8234,Celerity,Total Bonus Adaptive,-,-
+8236,Gathering Storm,Total Bonus Adaptive,-,-
+8237,Scorch,Total Bonus Damage,-,-
+8242,Unflinching,Bonus Tenacity per Activation,-,-
+8243,The Ultimate Hat,Total Bonus CDR,-,-
+8299,Last Stand,Total Bonus Damage,-,-
+8304,Magical Footwear,Time Received Boots Min,Time Received Boots Seconds,-
+8306,HexFlash,Times Hexflashed ,-,-
+8313,Perfect Timing,Used ,-,-
+8316,Minion Dematerializer,Bonus Minion Damage Dealt ,-,-
+8321,Future's Market,Future Purchases ,-,-
+8326,Unsealed Spellbook,Summoners Swapped ,-,-
+8339,Celestial Body,-,-,-
+8345,Biscut Delivery ,Biscuts Received ,-,-
+8347,Cosmic Insight,-,-,-
+8351,Glacial Agument ,Bonus Time Enemies Slowed ,-,-
+8359,Kleptomancy,Gold Granted,Items Looted ,-
+8410,Approach Velocity ,Time Spent Hastned ,-,-
+8429,Conditioning ,Percent of game active,Total Bonus Armor,Total Bonus Magic Resist
+8430,Iron Skin,Percent of game active,-,-
+8435,Mirror Shell,Bonus Magic Resist,-,-
+8437,Grasp of the Undying ,Total Damage Dealt,Total Healing ,-
+8439,Aftershock ,Total Damage Dealt,-,-
+8444,Second Wind,Total Healing,-,-
+8446,Demolish,Total Bonus Damage,-,-
+8451,Overgrowth,Total Bonus Max Health ,-,-
+8453,Revitalize,Bonus Healing,Bonus Shielding,-
+8463,Font of Life,Total Ally Healing,-,-
+8465,Guardian ,Total Shield Strength,-,-
+9101,Overheal,Total Shielding,Total Healing ,-
+9103,Legend Bloodline,Time Completed Min,Time Completed Seconds,-
+9104,Legend Aclarity,Time Completed Min,Time Completed Seconds,-
+9105,Legend Tenacity ,Time Completed Min,Time Completed Seconds,-
+9111,Triumph ,Total Health Resotred,-,-
